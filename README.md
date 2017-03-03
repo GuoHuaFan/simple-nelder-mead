@@ -1,2 +1,2 @@
-# simple-nelder-mead
-Simple Python Nelder-Mead implementation
+# Simple Nelder Mead
+Simple Python Nelder-Mead implementation. Only use numpy and nothing else.
